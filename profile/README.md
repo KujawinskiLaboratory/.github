@@ -1,4 +1,4 @@
 **Welcome to the Kujawinski Laboratory GitHub site**\
-This organzation was started on 11 October 2023\
-All prior commits for the user named *KujawinskiLaboratory* were done by Krista Longnecker, whose user account is now [@redbluewater](https://github.com/redbluewater)
+This organzation was started on 11 October 2023 and it holds computational codes used by the Kujawinski Laboratory at Woods Hole Oceanographic Institution.
+
 
